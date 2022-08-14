@@ -66,6 +66,8 @@ We would not reject the null hypothesis as the p-value equals 1 which is greater
 
 95% CI for Lot 1 = [ 1499.719 , 1500.281 ] 
 
+-----
+
 Lot 2: (Mean = 1500.2)
 
 ![Lot2](https://i.ibb.co/Fs3d9QL/3-2.png)
@@ -73,6 +75,8 @@ Lot 2: (Mean = 1500.2)
 We would follow the same path as Lot 1 and not reject the null hypothesis as the p-value for this lot is 0.6072 > 0.05. 
 
 95% CI for Lot 2 = [ 1499.423 , 1500.977 ] 
+
+-----
 
 Lot 3: (Mean = 1496.14)
 
