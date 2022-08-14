@@ -59,6 +59,7 @@ We would fail to reject the null hypothesis as the lot as a whole has a p-value 
 
 ### Smaller Lots: 
 Lot 1: (Mean = 1500) 
+
 ![Lot1](https://i.ibb.co/f8s9byd/3-1.png) 
 
 We would not reject the null hypothesis as the p-value equals 1 which is greater than 0.05. We don't have enough statistical differences between the sample mean and population mean. 
@@ -66,6 +67,7 @@ We would not reject the null hypothesis as the p-value equals 1 which is greater
 95% CI for Lot 1 = [ 1499.719 , 1500.281 ] 
 
 Lot 2: (Mean = 1500.2)
+
 ![Lot2](https://i.ibb.co/Fs3d9QL/3-2.png)
 
 We would follow the same path as Lot 1 and not reject the null hypothesis as the p-value for this lot is 0.6072 > 0.05. 
@@ -73,6 +75,7 @@ We would follow the same path as Lot 1 and not reject the null hypothesis as the
 95% CI for Lot 2 = [ 1499.423 , 1500.977 ] 
 
 Lot 3: (Mean = 1496.14)
+
 ![Lot3](https://i.ibb.co/Mh2Yt1h/3-3.png)
 
 You would reject the null hypothesis in this case as the p-value 0.04168 < 0.05. The mean of this lot is much smaller than Lot 1 and Lot 2. 
